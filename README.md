@@ -3,7 +3,7 @@
  project aplikasi Cuaca 
 
 
-  Screenshot dari Ahmad al fajri 221511039
+Ahmad al fajri 221511039
 
   ![Nama Gambar](ahmad_°F’.png)
 
