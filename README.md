@@ -1,6 +1,18 @@
-# weather_app
+# weather_app proyek 4
 
-A new Flutter project.
+ project aplikasi Cuaca 
+
+
+  Screenshot dari Ahmad al fajri 221511039
+
+  Run di browser
+  ![Nama Gambar](ahmad_°F’.png)
+
+  Run di emulator mobile
+  ![Nama Gambar](Ahmad°C.png)
+
+
+
 
 ## Getting Started
 
