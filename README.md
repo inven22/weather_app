@@ -5,10 +5,9 @@
 
   Screenshot dari Ahmad al fajri 221511039
 
-  Run di browser
   ![Nama Gambar](ahmad_°F’.png)
 
-  Run di emulator mobile
+  
   ![Nama Gambar](Ahmad°C.png)
 
 
